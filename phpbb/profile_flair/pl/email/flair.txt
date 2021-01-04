@@ -1,0 +1,13 @@
+Subject: Otrzymałeś nowe osiągnięcie
+
+Witaj {USERNAME},
+
+Właśnie otrzymałeś nowe osiągnięcie "{FLAIR_NAME}" na stronie "{SITENAME}".
+
+Aby dowiedzieć się więcej na temat tego osiągnięcia kliknij w poniższy link:
+{U_FLAIR}
+
+Aby zobaczyć twoje osiągnięcie, odwiedź twój profil klikając w poniższy odnośnik:
+{U_PROFILE}
+
+{EMAIL_SIG}
